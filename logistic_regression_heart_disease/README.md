@@ -2,7 +2,7 @@
   Logistic Regression To Predict Heart Diseases
 </h1>
 
-<a href='https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression'>Dataset (Kaggle)</a>
+<a href='https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression' target='_blank'>Dataset (Kaggle)</a>
 
 <p>Feature Engineering Techniques Used.</p>
 <ul>
