@@ -4,10 +4,10 @@
 
 <a href='https://www.kaggle.com/dileep070/heart-disease-prediction-using-logistic-regression' target='_blank'>Dataset (Kaggle)</a>
 
-<p>Feature Engineering Techniques Used.</p>
+<h3>Feature Engineering Techniques Used.</h3>
 <ul>
   <li>One Hot Encoding for Education Level</li>
   <li>Feature Scaling for all other columns</li>
 </ul>
 
-<p>Accuracy of Model: 87.03%</p>
+**Accuracy of Model: 87.03%**
