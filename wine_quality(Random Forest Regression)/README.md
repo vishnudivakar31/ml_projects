@@ -10,4 +10,5 @@
 </ul>
 
 **Explained variance score of Model: 0.456**
+<br/>
 **R^2 score of Model: 0.454**
